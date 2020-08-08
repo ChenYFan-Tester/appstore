@@ -12,22 +12,23 @@
       "size": 31852224,
       "promotionalText": "Slap the whole world one face at a time!",
       "rating": 4.8,
+	"poweron": "Android",
       "developer": {
         "name": "Google,Lnc",
         "id": 0
       },
       "screenshots": [
-        "Chrome-1.jpg",
         "Chrome-2.jpg",
-		"Chrome-3.jpg",
-        "Chrome-4.jpg",
-		"Chrome-5.jpg",
+	"Chrome-3.jpg",
+	"Chrome-5.jpg",
         "Chrome-6.jpg",
-		"Chrome-7.jpg",
-        "Chrome-8.jpg",
-        "Chrome-9.jpg",
         "Chrome-10.jpg",
-        "Chrome-11.jpg"
+        "Chrome-11.jpg",
+	"Chrome-1.jpg",
+	"Chrome-4.jpg",
+	"Chrome-7.jpg",
+	"Chrome-8.jpg",
+        "Chrome-9.jpg"
       ],
       "versions": [
         {
