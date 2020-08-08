@@ -13,9 +13,13 @@
       "promotionalText": "Slap the whole world one face at a time!",
       "rating": 4.8,
 	"poweron": "Android",
+	"lan": "中文|English",
+	"age": "12+",
+	"promotionalText": "不适用",
+	"realios": "不适用",
       "developer": {
         "name": "Google,Lnc",
-        "id": 0
+        "id": "https://google.com"
       },
       "screenshots": [
         "Chrome-2.jpg",
