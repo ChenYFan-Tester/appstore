@@ -13,11 +13,13 @@
       "promotionalText": "",
       "rating": 4.5,
 	"poweron": "IOS",
+	"lan": "中文|English",
+	"age": "12+",
 	"onekeyapp": "非秒装",
 	"realios": "可能需要越狱",
       "developer": {
         "name": " 2020 Li Guangming",
-        "id": 1
+        "id": "/"
       },
       "screenshots": [
         "shadowrocket-1.png",
@@ -41,7 +43,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "featured": "New update",
       "title": "Pixiv中国版",
       "slug": "让Pixiv不再成为无法访问的应用！",
@@ -51,6 +53,8 @@
       "price": "$0.00",
       "release_date": "2020-08-08T20:23:00",
       "size": 0,
+	  "lan": "中文|English",
+	  "age": "12+",
       "promotionalText": "秒装",
 	"realios": "无需越狱",
       "rating": 4.5,
@@ -58,7 +62,7 @@
 	"onekeyapp": "秒装应用",
       "developer": {
         "name": "ChenYFan",
-        "id": 2
+        "id": "/"
       },
       "screenshots": [
         "china-pixiv-1.jpg",
