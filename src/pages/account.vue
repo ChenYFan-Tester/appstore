@@ -7,8 +7,8 @@
         <f7-list media-list>
           <f7-list-item
             class="account-user"
-            title="Vladimir Kharlampidi"
-            subtitle="username@website.com"
+            title="ChenYFan"
+            subtitle="chenyf@cyfan.top"
             chevronCenter
             link
           >
