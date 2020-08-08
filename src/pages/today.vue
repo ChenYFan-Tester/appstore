@@ -46,7 +46,7 @@
         <AppstoreCard
           image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back3.jpg"
           title="<span>国区福音</span>"
-          titleColor="#fff"
+          titleColor="#000"
           titlePosition="bottom"
           titleLarge
           :app="appSevenSins"
