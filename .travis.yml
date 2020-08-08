@@ -15,6 +15,7 @@ install:
 script:
   - npm run build-prod
   - echo "app.cyfan.top" > ./dist/CNAME
+  
 deploy:
   provider: pages
   skip-cleanup: true
