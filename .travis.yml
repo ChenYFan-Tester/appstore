@@ -22,4 +22,4 @@ deploy:
   keep-history: true
   on:
     branch: master
-  local-dir: WWW
+  local-dir: www
