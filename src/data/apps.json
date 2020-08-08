@@ -13,7 +13,8 @@
       "promotionalText": "",
       "rating": 4.5,
 	"poweron": "IOS",
-	"onekeyapp": "no",
+	"onekeyapp": "非秒装",
+	"realios": "可能需要越狱",
       "developer": {
         "name": " 2020 Li Guangming",
         "id": 1
@@ -46,14 +47,15 @@
       "slug": "让Pixiv不再成为无法访问的应用！",
       "subtitle": "让Pixiv不再成为无法访问的应用！",
       "icon": "china-pixiv-icon.jpg",
-      "description": "Rule based proxy utility client for iPhone/iPad.\n- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.\n \n- Record and display HTTP, HTTPS, DNS requests from your iOS devices.\n\n- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.\n\n- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.\n\n- Import rule files from URL or iCloud Drive.\n\n- Block ads by domain, user agent rules.\n\n- Local DNS Mapping.\n\n- Work on cellular networks.\n\n- Decrypt HTTPS traffic.- Perform URL rewrite.\n\n- Fully IPv6 supports.\n\n- Script filter supports.\n\n- Multi-level forward proxy.\n\n- Support kcptun, cloak, gost, v2ray plugins.\n\n- Support DoH, DoT.",
+      "description": "秒装应用",
       "price": "$0.00",
       "release_date": "2020-08-08T20:23:00",
       "size": 0,
       "promotionalText": "秒装",
+	"realios": "无需越狱",
       "rating": 4.5,
 	"poweron": "IOS",
-	"onekeyapp": "yes",
+	"onekeyapp": "秒装应用",
       "developer": {
         "name": "ChenYFan",
         "id": 2
