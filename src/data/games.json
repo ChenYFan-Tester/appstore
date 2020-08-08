@@ -1,0 +1,41 @@
+[
+    {
+      "id": 2,
+      "featured": "New Release",
+      "title": "Chrome",
+      "slug": "Google",
+      "subtitle": "Best Internet Surf Tool In Android",
+      "icon": "Chrome-icon.jpg",
+      "description": "Google Chrome 是一款快速、易用且安全的网络浏览器。此版 Chrome 是专为 Android\n设计的，不仅可为您量身推荐新闻报道，还有快速链接指向您所收藏的网站和下载的内容，甚至还内置了 Google 搜索和谷歌翻译。立即下载此版 Chrome，在您的所有设备上享受一致的 Chrome 网络浏览器体验吧。\n 快速浏览，减少输入操作。您既可从即搜即得的个性化搜索结果中进行选择，也可快速浏览之前访问过的网页。您还可使用“自动填充”功能快速填写表单。\n 无痕式浏览。您可以使用无痕模式浏览互联网 - 在这种模式下，系统不会保存您的历史记录。在您的所有设备上，您都能私密地浏览。\n 在多部设备间同步 Chrome。当您登录 Chrome 之后，您的书签、密码和设置将会自动在您的所有设备之间保持同步。您可在手机、平板电脑或笔记本电脑上无缝访问自己的所有信息。\n 只需轻轻点按一下，即可查看您收藏的所有内容。Chrome 并非只能快速执行 Google 搜索，而是经过了精心设计，只需轻轻一按即可浏览收藏的所有内容。您可在新标签页中直接点按收藏的新闻网站或社交媒体。Chrome 还提供了“点按搜索”功能 - 该功能在大多数网页上可用。您只需在当前浏览的网页中点按任意字词或短语，即可在不离开该网页的情况下发起 Google 搜索。\n 使用 Google 安全浏览功能保护手机。Chrome 内置了 Google 安全浏览功能。当您尝试访问危险网站或下载危险文件时，该功能会向您显示警告以保护手机的安全。\n 快速下载并离线查看网页和视频。Chrome 有一个专用的下载按钮，只需轻轻一按即可下载视频、图片以及整个网页。Chrome 还设有下载内容区（就在 Chrome 内），您可以在那里访问下载过的所有内容，即使离线也无妨。\n Google 语音搜索。Chrome 是一款真正支持语音功能的网络浏览器。您只需发出语音指令即可随时随地找到答案，无需动手输入文字。无论您身在何处，都可随时使用语音更快速地浏览和查找所需信息。\n 内置谷歌翻译：快速翻译整个网页。Chrome 内置了谷歌翻译 - 只需轻轻一按，即可将整个网页翻译成您的语言。\n 节省移动数据流量并加快网页加载速度。启用精简模式最多可节省 60% 的数据流量。Chrome 会压缩文字、图片、视频和网站，同时又不会有损这些内容的质量。\n 智能的个性化推荐。Chrome 可根据您的喜好为您提供个性化服务。在新标签页上，您可以看到 Chrome 根据您的以往浏览记录为您挑选的报道。",
+      "price": "$0.00",
+      "release_date": "2020-02-23T00:00:00",
+      "size": 31852224,
+      "promotionalText": "Slap the whole world one face at a time!",
+      "rating": 4.8,
+      "developer": {
+        "name": "Google,Lnc",
+        "id": 0
+      },
+      "screenshots": [
+        "Chrome-1.jpg",
+        "Chrome-2.jpg",
+		"Chrome-3.jpg",
+        "Chrome-4.jpg",
+		"Chrome-5.jpg",
+        "Chrome-6.jpg",
+		"Chrome-7.jpg",
+        "Chrome-8.jpg",
+        "Chrome-9.jpg",
+        "Chrome-10.jpg",
+        "Chrome-11.jpg"
+      ],
+      "versions": [
+        {
+          "version": "Unknown",
+          "release_date": "1970-01-01T00:00:00",
+          "release_notes": null
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "featured": "New update",
+      "title": "ShadowRocket",
+      "slug": "Rule based proxy utility",
+      "subtitle": "Rule based proxy utility",
+      "icon": "shadowrocket-icon.png",
+      "description": "Rule based proxy utility client for iPhone/iPad.\n- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.\n \n- Record and display HTTP, HTTPS, DNS requests from your iOS devices.\n\n- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.\n\n- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.\n\n- Import rule files from URL or iCloud Drive.\n\n- Block ads by domain, user agent rules.\n\n- Local DNS Mapping.\n\n- Work on cellular networks.\n\n- Decrypt HTTPS traffic.- Perform URL rewrite.\n\n- Fully IPv6 supports.\n\n- Script filter supports.\n\n- Multi-level forward proxy.\n\n- Support kcptun, cloak, gost, v2ray plugins.\n\n- Support DoH, DoT.",
+      "price": "$2.99",
+      "release_date": "2014-04-02T00:00:00",
+      "size": 15000000,
+      "promotionalText": "",
+      "rating": 4.5,
+      "developer": {
+        "name": " 2020 Li Guangming",
+        "id": 1
+      },
+      "screenshots": [
+        "shadowrocket-1.png",
+        "shadowrocket-2.png",
+        "shadowrocket-3.png",
+        "shadowrocket-4.png",
+        "shadowrocket-5.png",
+		"shadowrocket-6.png",
+        "shadowrocket-7.png",
+        "shadowrocket-8.png",
+		"shadowrocket-9.png",
+        "shadowrocket-10.png"
+      ],
+      "versions": [
+        {
+          "version": "Unknown",
+          "release_date": "1970-01-01T00:00:00",
+          "release_notes": "Unknown"
+        }
+
+      ]
+    }
+  ]
+  
