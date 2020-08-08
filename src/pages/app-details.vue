@@ -83,19 +83,20 @@
           </div>
       </template>
 
-      <AppstoreBlockTitle title="Information" />
+      <AppstoreBlockTitle title="关于" />
       <f7-list noHairlines noChevron class="safe-areas-inset app-information-list">
-        <f7-list-item title="Provider" :after="app.developer.name" />
-        <f7-list-item title="Size" :after="`${Math.floor(app.size / 1000000)} MB`" />
-        <f7-list-item title="Compatibility" :after="app.poweron" />
-        <f7-list-item title="Languages" after="English" />
-        <f7-list-item title="Age Rating" after="12+" />
-        <f7-list-item title="In-App Purchases" after="Yes" />
-        <f7-list-item title="Copyright" :after="`© ${app.developer.name}`" />
-        <f7-list-item :link="`https://apps.apple.com/developer/id${app.developer.id}`" external target="_blank" title="Developer Website">
+        <f7-list-item title="提供者" :after="app.developer.name" />
+        <f7-list-item title="大小" :after="`${Math.floor(app.size / 1000000)} MB`" />
+        <f7-list-item title="支持" :after="app.poweron" />
+        <f7-list-item title="语言" :after="app.lan" />
+        <f7-list-item title="年龄限制" :after="app.age" />
+        <f7-list-item title="越狱需求" :after="app.realios" />
+		<f7-list-item title="是否秒装" :after="app.onekeyapp" />
+        <f7-list-item title="版权" :after="`© ${app.developer.name}`" />
+        <f7-list-item :link="`${app.developer.id}`" external target="_blank" title="开发者网站">
           <f7-icon slot="after" f7="compass" />
         </f7-list-item>
-        <f7-list-item :link="'https://cyfan.top/privacy-policy/'" external target="_blank" title="Privacy Policy">
+        <f7-list-item :link="'https://cyfan.top/privacy-policy/'" external target="_blank" title="隐私政策">
           <f7-icon slot="after" f7="hand_raised_fill" />
         </f7-list-item>
       </f7-list>
