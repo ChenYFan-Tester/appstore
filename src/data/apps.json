@@ -12,6 +12,7 @@
       "size": 15000000,
       "promotionalText": "",
       "rating": 4.5,
+	"poweron": "IOS",
       "developer": {
         "name": " 2020 Li Guangming",
         "id": 1
