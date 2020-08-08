@@ -14,7 +14,7 @@ install:
 
 script:
   - npm run build-prod
-  - echo "app.cyfan.top" > ./dist/CNAME
+  - echo "app.cyfan.top" > ./www/CNAME
   
 deploy:
   provider: pages
