@@ -87,7 +87,7 @@
       <f7-list noHairlines noChevron class="safe-areas-inset app-information-list">
         <f7-list-item title="Provider" :after="app.developer.name" />
         <f7-list-item title="Size" :after="`${Math.floor(app.size / 1000000)} MB`" />
-        <f7-list-item title="Compatibility" :after="app.poweron`" />
+        <f7-list-item title="Compatibility" :after="app.poweron" />
         <f7-list-item title="Languages" after="English" />
         <f7-list-item title="Age Rating" after="12+" />
         <f7-list-item title="In-App Purchases" after="Yes" />
