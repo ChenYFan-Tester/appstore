@@ -18,7 +18,7 @@
         </AppstoreCard>
 
         <AppstoreCard
-          image="static/apps-images/back1.jpg"
+          image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back1.jpg"
           title="<span>THE<br />BEST<br />TOOLS</span>"
           titleColor="#000"
           titlePosition="bottom"
@@ -29,7 +29,7 @@
           <p>Rule based proxy utility client for iPhone/iPad.</br>- Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.</br> </br>- Record and display HTTP, HTTPS, DNS requests from your iOS devices.</br></br>- Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.</br></br>- Measure traffic usage and network speed on WiFi, cellular, direct and proxy connections.</br></br>- Import rule files from URL or iCloud Drive.</br></br>- Block ads by domain, user agent rules.</br></br>- Local DNS Mapping.</br></br>- Work on cellular networks.</br></br>- Decrypt HTTPS traffic.- Perform URL rewrite.</br></br>- Fully IPv6 supports.</br></br>- Script filter supports.</br></br>- Multi-level forward proxy.</br></br>- Support kcptun, cloak, gost, v2ray plugins.</br></br>- Support DoH, DoT..</p>
         </AppstoreCard>
         <AppstoreCard
-          image="static/apps-images/back2.png"
+          image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back2.png"
           title="<span>APP<br />OF THE<br />DAY</span>"
           titleColor="#000"
           titlePosition="bottom"
