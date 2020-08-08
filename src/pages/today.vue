@@ -44,7 +44,7 @@
       <AppstorePageTitle :title="yesterdayDateTitle" :heading="yesterdayDateHeading" :accountLink="false" />
       <div class="appstore-card-grid">
         <AppstoreCard
-          image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back3.png"
+          image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back3.jpg"
           title="<span>国区福音</span>"
           titleColor="#fff"
           titlePosition="bottom"
@@ -93,8 +93,8 @@ export default {
 
         const appCrossyRoad = apps.find((app) => app.title === 'ShadowRocket');
         const appNetlfix = games.find((app) => app.title === 'Chrome');
-        const appInstagram = apps.find((app) => app.title === 'Pixiv中国版');
-        const appSevenSins = games.find((app) => app.title === 'The Seven Deadly Sins');
+        const appInstagram = apps.find((app) => app.title === '');
+        const appSevenSins = apps.find((app) => app.title === 'Pixiv中国版');
 
         return {
             todayDate,
