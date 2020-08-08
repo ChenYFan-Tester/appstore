@@ -44,14 +44,14 @@
       <AppstorePageTitle :title="yesterdayDateTitle" :heading="yesterdayDateHeading" :accountLink="false" />
       <div class="appstore-card-grid">
         <AppstoreCard
-          image=""
-          title="<span>Nothing</span>"
+          image="https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/static/apps-images/back3.png"
+          title="<span>国区福音</span>"
           titleColor="#fff"
           titlePosition="bottom"
           titleLarge
           :app="appSevenSins"
         >
-          <p>Nothing</p>
+          <p>Pixiv国内版上线了！！！秒装应用等你尝试！</p>
         </AppstoreCard>
         <AppstoreCard
           image="static/img/apps-images/instagram-5.jpg"
@@ -93,7 +93,7 @@ export default {
 
         const appCrossyRoad = apps.find((app) => app.title === 'ShadowRocket');
         const appNetlfix = games.find((app) => app.title === 'Chrome');
-        const appInstagram = apps.find((app) => app.title === 'Instagram');
+        const appInstagram = apps.find((app) => app.title === 'Pixiv中国版');
         const appSevenSins = games.find((app) => app.title === 'The Seven Deadly Sins');
 
         return {
