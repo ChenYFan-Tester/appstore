@@ -53,20 +53,7 @@
         >
           <p>Pixiv国内版上线了！！！秒装应用等你尝试！</p>
         </AppstoreCard>
-        <AppstoreCard
-          image="static/img/apps-images/instagram-5.jpg"
-          title="<span>Nothing</span>"
-          titleColor="#000"
-          titlePosition="bottom"
-          titleLarge
-          closeButtonColor="#000"
-          :app="appInstagram"
-          appColor="#000"
-        >
-          <p>Nothing</p>
-        </AppstoreCard>
-      </div>
-  </AppstorePage>
+       
 
 </template>
 
