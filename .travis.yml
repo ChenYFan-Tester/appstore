@@ -1,0 +1,25 @@
+sudo: false
+cache: npm
+language: node_js
+node_js:
+  - "11"
+
+branches:
+  only:
+    - master # build master branch only
+
+
+install:
+  - npm install
+
+script:
+  - npm run build-prod
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  local-dir: WWW
