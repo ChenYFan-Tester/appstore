@@ -5,7 +5,7 @@
       
       <f7-toolbar tabbar labels bottom>
         <f7-link @click="onTabLinkClick('today')" tab-link="#view-today" tab-link-active icon-f7="today" text="Today"></f7-link>
-        <f7-link @click="onTabLinkClick('games')" tab-link="#view-games" icon-f7="rocket_fill" text="Andriod"></f7-link>
+        <f7-link @click="onTabLinkClick('games')" tab-link="#view-games" icon-f7="rocket_fill" text="Android"></f7-link>
         <f7-link @click="onTabLinkClick('apps')" tab-link="#view-apps" icon-f7="layers_alt_fill" text="Apple"></f7-link>
 
         <f7-link @click="onTabLinkClick('search')" tab-link="#view-search" icon-f7="search" text="Search"></f7-link>
