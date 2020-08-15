@@ -1,5 +1,5 @@
 <template>
-    <AppstorePage title="Andriod">
+    <AppstorePage title="Android">
       <FeaturedApps backText="Games" :apps="featuredGames" />
 
       <AppstoreBlockTitle title="What We're Using Now">
