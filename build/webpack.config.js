@@ -27,7 +27,7 @@ module.exports = {
     path: resolvePath('www'),
     filename: 'js/[name].js',
     chunkFilename: 'js/[name].js',
-    publicPath: '',
+    publicPath: 'https://cdn.jsdelivr.net/gh/ChenYFan-tester/appstore@gh-pages/js/[name].js',
     hotUpdateChunkFilename: 'hot/hot-update.js',
     hotUpdateMainFilename: 'hot/hot-update.json',
   },
