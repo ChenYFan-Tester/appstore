@@ -78,6 +78,36 @@
         }
 
       ]
+    },
+    {
+      "id": 4,
+      "featured": "New update",
+      "title": "网易云音乐",
+      "slug": "音乐的力量",
+      "subtitle": "黑胶破解",
+      "icon": "https://rmt.dogedoge.com/fetch/hi-c-oss/storage/20200920095440.png",
+      "description": "音乐的力量",
+      "price": "$0.00",
+      "release_date": "2020-09-20T09:55:37",
+      "size": 0,
+	  "lan": "中文|English",
+	  "age": "12+",
+      "promotionalText": "非秒装",
+	"realios": "需要越狱",
+      "rating": 4.3,
+	"poweron": "IOS",
+	"onekeyapp": "非秒装",
+      "developer": {
+        "name": "163",
+        "id": "/"
+      },
+      "versions": [
+        {
+          "version": "Unknown",
+          "release_date": "1970-01-01T00:00:00",
+          "release_notes": "Unknown"
+        }
+      ]
     }
   ]
   
