@@ -75,4 +75,4 @@ framework7-cn assets --ui
 ## Support Framework7CN
 
 Love Framework7Cn? Support project by donating or pledging on patreon:
-https://patreon.com/vladimirkharlampidi
+https://patreon.com/vladimirkharlampidi 
